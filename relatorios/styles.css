@@ -1,0 +1,22 @@
+h1{
+    margin-bottom: 20px;
+}
+
+h1, h4 { text-align: center; }
+
+table {
+    border-collapse: collapse; border-spacing: 0px;
+}
+
+.active-style thead td {
+    background-color: #F3F3F3; /* Light grey background */
+    font-weight: bold; /* Make sure they're bold */
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.active-style td, th { 
+    border: 1px solid #CCC; 
+    padding: 5px; 
+    text-align: justify;
+} 
